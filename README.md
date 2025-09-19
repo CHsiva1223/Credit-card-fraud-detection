@@ -153,12 +153,10 @@ print('PR AUC:', average_precision_score(y_val, y_proba))
 
 ---
 
-## License & contact
+## Contact
 
-This project is released under the MIT License.
-
-For questions or contributions, open an issue or contact the maintainer.
-
+Contact:  sivarajuchakravaram287@gmail.com
+Linkedin:  https://www.linkedin.com/in/siva-raju-chakravaram-51706636b/
 ---
 
 ## Acknowledgements
